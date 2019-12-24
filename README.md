@@ -10,5 +10,7 @@ Installation:
   Open the file 'application/config/database.php' and set Host, User, Password and DB Name.   
   Open the file 'application/config/config.php' and change base url like http://localhost/(pasted folder name)/.
   
+  Open Screenshots folder to view results.
+  
   
   
